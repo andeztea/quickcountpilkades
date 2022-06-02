@@ -12,4 +12,17 @@ Please download other supporting applications that I have made below
 Instalasion 
 - Install Node JS version >=12
 - Install vue Js   	
-  <sup>npm install --global vue-cli</sup>
+
+```
+npm install --global vue-cli
+```
+
+-Clone Repositories quickcountpilkades
+
+```
+cd quickcountpilkades
+npm install
+```
+
+
+
