@@ -20,7 +20,7 @@ npm install
 npm run serve
 ```
 
--Clone Repositories wabotquickcount
+-Clone Repositories [wabotquickcount](https://github.com/andeztea/WaBootQuickCountPilkades.git)
 
 ```
 cd wabotquickcount
@@ -32,7 +32,7 @@ when finish scan barcode message will in command Client is Ready
 
 After running please import database sql in repositories (db_api_wa_gateway.sql)
 
--Clone Repositories Api Service With Node Js 
+-Clone Repositories Api Service With Node Js  [Api Service](https://github.com/andeztea/apiquickcountpilkades.git)
 
 ```
 cd apiwagateway
