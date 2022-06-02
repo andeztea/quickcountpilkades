@@ -10,4 +10,5 @@ Please download other supporting applications that I have made below
 
 
 Instalasion 
-- 
+- Install Node JS version >=12
+- Install vue Js   	<sub>npm install --global vue-cli</sub>
